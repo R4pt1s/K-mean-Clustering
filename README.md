@@ -19,7 +19,7 @@ gcc ex2.c
 
 Run k-mean clustering algorithm
 ```bash
-gcc prog2.c
+gcc prog2.c -lm
 ./a.out
 ```
 
