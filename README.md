@@ -24,12 +24,12 @@ gcc prog2.c
 ```
 
 ## Results
-Our set before execution
+Our set before run k-mean clustering algorithm
 ```bash
 python3 team_first.py 
 ```
 
-Our set after execution
+Our set after run k-mean clustering algorithm
 ```bash
 python3 team_last.py 
 ```
