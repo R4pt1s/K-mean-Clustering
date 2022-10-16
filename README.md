@@ -1,4 +1,4 @@
-# K-mean-Clustering
+# K-mean Clustering
  It is the simplest unsupervised learning algorithm that solves clustering problem
 
 K-means algorithm partitions n observations into k clusters where each observation belongs to the cluster with the nearest mean serving as a prototype of the cluster
